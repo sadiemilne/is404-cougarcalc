@@ -1,3 +1,3 @@
 ## Merge Conflict Practice
 
-Favorite Color: none
+Favorite Color: blue
